@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#F15F79</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="white">#FFFFFF</color>
+    <color name="A100">#FF8A80</color>
+    <color name="A200">#FF5252</color>
+    <color name="A400">#FF1744</color>
+    <color name="A700">#D50000</color>
+    <color name="sideNavIcon">@color/A100</color>
+    <color name="pink">#E91E63</color>
+</resources>

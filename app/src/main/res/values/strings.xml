@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">T10-idk-2020</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Map Route</string>
+    <string name="menu_gallery">Report</string>
+    <string name="menu_slideshow">Reward</string>
+
+    <string name="title">First Mile Last Mile</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="profile">Profile</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgetPassword">Forget Password</string>
+    <string name="confirmPassword">Confirm Password</string>
+    <string name="promptQuestion">Don\'t have an account? \ </string>
+    <string name="registerHere">Register Here</string>
+    <string name="accountExistQuestion">Already have a account? \ </string>
+    <string name="firstName">First Name</string>
+    <string name="lastName">Last Name</string>
+    <string name="btnFindRoutes">Find Routes</string>
+    <string name="inputStartPoint">Starting Point</string>
+    <string name="inputDestinationPoint">Destination Point</string>
+    <string name="saveProfile">Save</string>
+    <string name="currentPassword">Current Password</string>
+    <string name="newPassword">New password</string>
+    <string name="confirmNewPassword">Confirm New password</string>
+    <string name="yo_forget_your_password">Yo! Forget Your Password?</string>
+    <string name="no_worries_enter_your_email_and_we_will_send_you_a_reset_link">No worries! Enter your email and we will send you a reset link</string>
+    <string name="send_email_link">Send Email Link</string>
+    <string name="remember_password_login">Remember Password? Login</string>
+    <string name="changePassword">Comfirm New Password</string>
+    <string name="changePasswordPage">Change Password</string>
+    <string name="action_logout">Logout</string>
+    <string name="weather">Weather</string>
+    <string name="btnRate">Rate</string>
+    <string name="btnRateSubmit">Submit</string>
+    <string name="btnRateCancel">Cancel</string>
+</resources>
